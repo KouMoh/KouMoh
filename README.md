@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koustav Mohapatra, a 2nd year CSE undergrad at KIIT-DU Bhubaneswar, Odisha, India!
 - 👀 I’m interested in internships, freelancing and problem solving
 - 🌱 I’m currently learning C++, Java (OOP) and Data Analytics in Python
-- 💞️ I’m looking to collaborate on Machine Leaning
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me: go2amul@gmail.com
 
 <!---
